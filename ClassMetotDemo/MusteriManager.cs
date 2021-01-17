@@ -12,7 +12,7 @@ namespace ClassMetotDemo
         }
         public void GetList()
         {
-            Console.WriteLine("Müşteriler listelendi");
+            Console.WriteLine("Müşteriler DB'den çekildi ve listelendi");
         }
         public void Update(Musteri musteri)
         {
