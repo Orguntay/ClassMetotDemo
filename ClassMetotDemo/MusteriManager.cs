@@ -12,7 +12,6 @@ namespace ClassMetotDemo
         }
         public void GetList()
         {
-            Console.WriteLine("DB den müşteriler çekildi. Müşteriler listelendi");
         }
         public void Update(Musteri musteri)
         {
